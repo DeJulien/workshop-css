@@ -26,6 +26,13 @@ li{
     text-decoration: unset;
 }
 
+.hea:hover{
+    color:#009900;
+}
+
+.hea:focus{
+    color:#009900;
+}
 
 .contact{
     color: #0000FF;
