@@ -27,11 +27,11 @@ li{
 }
 
 .hea:hover{
-    color:#009900;
+    background-color:#009900;
 }
 
 .hea:focus{
-    color:#009900;
+    background-color:#009900;
 }
 
 .contact{
