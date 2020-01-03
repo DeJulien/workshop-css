@@ -12,7 +12,7 @@ h2{
 }
 
 li{
-    float:left;
+    display: inline;
     list-style-type: none;
     word-spacing: 5px;
     padding:2px;
